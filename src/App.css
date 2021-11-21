@@ -1,4 +1,5 @@
 .App {
+  display: flex;
   text-align: center;
 }
 
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.player {
+  background-color: 'black';
 }
